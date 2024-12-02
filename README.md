@@ -6,7 +6,7 @@ This repository contains the codes and datasets used in our study on non-invasiv
 * **Reference Files:** Includes .dat, .sta, fiber orientations, elements, nodes, and short-axis slice files for strain computation.
 
 ## Estimation of Cardiac Strains from CMR
-* **[Super-Resolution Reconstruction in Cardiac Magnetic Resonance (SRR in CMR)](https://github.com/Tanmay24Mukh/SRR_in_CMR.git):** This in-house built tool is used for estimating the four-dimensional motion of the heart using super-resolution reconstruction (SRR) of CMR images.
+* **Super-Resolution Reconstruction in Cardiac Magnetic Resonance (SRR in CMR):** This in-house built tool is used for estimating the four-dimensional motion of the heart using super-resolution reconstruction (SRR) of CMR images. This code is publicly available on [GitHub](https://github.com/Tanmay24Mukh/SRR_in_CMR.git).
 
 ## Datasets
 * In-silico simulated cardiac strain datasets generated from finite element models.
