@@ -21,3 +21,5 @@ This repository contains the codes and datasets used in our study on non-invasiv
 *	Codes for evaluating the ML model performance in predicting infarct regions using Dice Similarity Coefficient (DSC), Intersection over Union (IoU), and other metrics..
 *	Single-fidelity and multi-fidelity trained model weights for random initialization and leave one out cross-validation approaches.
 
+## Note: 
+Due to the large size of the datasets, they are hosted on Google Drive and can be accessed using this [link](https://drive.google.com/drive/folders/1jpMec5sgps7QDPZPmHyR8rDZMhuXibIa?usp=drive_link).
